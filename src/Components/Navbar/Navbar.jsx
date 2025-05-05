@@ -6,7 +6,7 @@ import navprofileIcon from '../Assets/nav-profile.svg'
 const Navbar = () => {
   return (
     <div className='navbar'>
-      <h2>SHINECART</h2>
+      <h2>SHINE</h2>
     </div>
   )
 }
